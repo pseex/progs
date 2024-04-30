@@ -1,0 +1,12 @@
+sending incremental file list
+sending incremental file list
+created directory /home/pseex/backup//current
+./
+001.jpg
+
+sent 194.573 bytes  received 88 bytes  389.322,00 bytes/sec
+total size is 194.407  speedup is 1,00
+sending incremental file list
+
+sent 80 bytes  received 12 bytes  184,00 bytes/sec
+total size is 194.407  speedup is 2.113,12 (DRY RUN)
